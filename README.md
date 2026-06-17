@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image_12.png" alt="Muvix Banner" width="100%">
+  <img src="C:\Users\usuario\Downloads\muvix.png" alt="Muvix Banner" width="100%">
 </div>
 
 <br>
