@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📱 FlashMove</h1>
+  <h1>📱 Muvix</h1>
   <p>
     <img src="https://img.shields.io/badge/Estado-En_Desarrollo-DD2D4A?style=for-the-badge" alt="Estado">
     <img src="https://img.shields.io/badge/Versión-1.0.0-880D1E?style=for-the-badge" alt="Versión">
